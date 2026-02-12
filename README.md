@@ -10,7 +10,7 @@ The problem is formulated as a supervised learning task. Multiple classification
 
 ---
 
-##  Approach Overview
+###  Approach Overview
 
 The solution follows a structured machine learning workflow:
 - Exploratory Data Analysis (EDA) to understand data characteristics and feature behavior
